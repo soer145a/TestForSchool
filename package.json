@@ -1,0 +1,24 @@
+{
+  "name": "assignment-1",
+  "version": "1.0.0",
+  "description": "For a School Projekt",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soer145a/TestForSchool.git"
+  },
+  "author": "Søren Rembøll",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soer145a/TestForSchool/issues"
+  },
+  "homepage": "https://github.com/soer145a/TestForSchool#readme",
+  "devDependencies": {
+    "eslint": "^7.8.1",
+    "eslint-config-google": "^0.14.0",
+    "jest": "^26.4.2"
+  }
+}
