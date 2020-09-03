@@ -6,7 +6,8 @@ function fireCheck() { //Fired from button
 }
 function calcTotal(a, b, c) { //Calculator for product
   const display = a + b + c;
-    console.log(display);
+  const target = document.querySelector("#target");
+  target.textContent = display;
   return display;
 }
 //output to test performance
