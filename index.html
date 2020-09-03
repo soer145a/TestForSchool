@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assignment 1</title>
+</head>
+<body>
+<!-- Input Fields for application -->
+    <input type="number" id="input1"> <!-- These take number only -->
+    <input type="number" id="input2">
+    <input type="number" id="input3">
+    <button onclick="fireCheck()">CALC</button> <!-- Clickable element to trigger procedures -->
+    <p>PRODUCT: <span id="target">#</span></p> <!-- End Product -->
+</body>
+<script src="app.js"></script>
+</html>
